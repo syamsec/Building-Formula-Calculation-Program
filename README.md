@@ -21,7 +21,7 @@ Berikut bangun yang dapat dihitung dengan rumus masing-masing
     balok
 
 # Use
-Anda bisa memberikan sisi yang diketahui dan program akan menghasilkan hasil dengna otomatis. Anda juga bisa mengetahui rumus bangun tersebut melalui coding saya.
+Anda bisa memberikan sisi yang diketahui dan program akan menghasilkan hasil dengan otomatis. Anda juga bisa mengetahui rumus bangun tersebut melalui coding saya.
 #
 
 <h1><b>Made by <a href="https://github.com/syamsec/">SyamSec</a></b></h1>
