@@ -17,6 +17,8 @@ Berikut bangun yang dapat dihitung dengan rumus masing-masing
     kerucut
     tabung
     bola
+    kubus
+    balok
     limas [segitiga, segiempat, segilima, segienam]
     prisma [segitiga, segiempat, segilima, segienam]
 
