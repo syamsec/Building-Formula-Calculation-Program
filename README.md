@@ -19,8 +19,6 @@ Berikut bangun yang dapat dihitung dengan rumus masing-masing
     bola
     kubus
     balok
-    limas [segitiga, segiempat, segilima, segienam]
-    prisma [segitiga, segiempat, segilima, segienam]
 
 # Use
 Anda bisa memberikan sisi yang diketahui dan program akan menghasilkan hasil dengna otomatis. Anda juga bisa mengetahui rumus bangun tersebut melalui coding saya.
