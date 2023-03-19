@@ -2,7 +2,7 @@
 Program Simple
 
 # Details
-Program Python yang bisa menghitung luas, kelilig, luas permukaan, dan volume sebuah bangun datar maupun bangun ruang.
+Program Python yang bisa menghitung luas, keliling, luas permukaan, dan volume sebuah bangun datar maupun bangun ruang.
 Berikut bangun yang dapat dihitung dengan rumus masing-masing
 <br />
 <h3>Bangun Datar :</h3>
