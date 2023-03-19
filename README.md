@@ -1,5 +1,5 @@
 # Building Formula Calculating Program
-calculate perimeter, area, volume, surface area of a plane shape and shape space
+Program Simple
 
 # Details
 Program Python yang bisa menghitung luas, kelilig, luas permukaan, dan volume sebuah bangun datar maupun bangun ruang.
