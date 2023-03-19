@@ -25,3 +25,4 @@ Anda bisa memberikan sisi yang diketahui dan program akan menghasilkan hasil den
 #
 
 <h1><b>Made by <a href="https://github.com/syamsec/">SyamSec</a></b></h1>
+<h3>My <a href="https://masqil.blogspot.com/">Website</a></h3>
